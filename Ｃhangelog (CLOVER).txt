@@ -1,0 +1,8 @@
+ＣＨＡＮＧＥＬＯＧ
+
+𝟬𝟯-28-𝟮𝟱
+Initial Build
+Kernel version upstream which is 5.4.289
+KSU Next support
+SusFS 1.5.5
+No meme cam and TWRP (QRP2 issue)
