@@ -1,4 +1,9 @@
 ＣＨＡＮＧＥＬＯＧ
+𝟬𝟯-30-𝟮𝟱
+Merge latest device blobs and updates
+Meme cam now supported (thanks to rv.🫥 pro dev)
+Reverted to stock thermal-normal.conf
+
 
 𝟬𝟯-28-𝟮𝟱
 Initial Build
