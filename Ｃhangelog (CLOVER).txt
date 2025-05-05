@@ -1,7 +1,7 @@
 ＣＨＡＮＧＥＬＯＧ
 05-05-2025
 Switched to Pixel power HAL (thanks to @AntiMiui, @MIUI_users_r_GAY, and @itz_me_jarvis)
-imported Evox A14 powerhint.json 
+imported Evox A14 powerhint
 Updated thermal (thanks to @tanzilw)
 
 𝟬4-20-𝟮𝟱
