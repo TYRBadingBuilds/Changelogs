@@ -1,4 +1,16 @@
 ＣＨＡＮＧＥＬＯＧ
+05-05-2025
+Switched to Pixel power HAL (thanks to @AntiMiui, @MIUI_users_r_GAY, and @itz_me_jarvis)
+imported Evox A14 powerhint.json 
+Updated thermal (thanks to @tanzilw)
+
+𝟬4-20-𝟮𝟱
+Merge latest device blobs and updates
+Synced to latest source change
+Switch to Sony Dolby (thanks to @itz_me_jarvis)
+VOIP fixed! (thanks to @kknixx) 
+Dovi fixed! 
+
 𝟬𝟯-30-𝟮𝟱
 Merge latest device blobs and updates
 Meme cam now supported (thanks to rv.🫥 pro dev)
