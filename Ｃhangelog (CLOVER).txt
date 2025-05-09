@@ -1,4 +1,9 @@
 ＣＨＡＮＧＥＬＯＧ
+05-09-2025
+fine tuned powerhint 
+switched back to 5.4.286 kernel
+added torch light control (thanks to @Omar99a)
+
 05-05-2025
 Switched to Pixel power HAL (thanks to @AntiMiui, @MIUI_users_r_GAY, and @itz_me_jarvis)
 imported Evox A14 powerhint
