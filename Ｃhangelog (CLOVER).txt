@@ -1,6 +1,8 @@
 ＣＨＡＮＧＥＬＯＧ
-05-09-2025
-fine tuned powerhint 
+05-13-2025
+removed Game hints
+added SchedPreferSpread
+Fixed dt2w
 switched back to 5.4.286 kernel
 added torch light control (thanks to @Omar99a)
 
